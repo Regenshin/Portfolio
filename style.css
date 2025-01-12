@@ -177,6 +177,8 @@ section {
   border-radius: 50%;
   
   background-position: cover;
+
+  
 }
 .profilepic{
     height: 100%;
@@ -188,6 +190,7 @@ section {
     
 
 }
+
 
 .section__text {
   align-self: center;
